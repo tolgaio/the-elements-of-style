@@ -1,0 +1,20 @@
+{
+  "name": "the-elements-of-style",
+  "description": "Writing guidance based on William Strunk Jr.'s The Elements of Style (1918)",
+  "owner": {
+    "name": "Jesse Vincent",
+    "email": "jesse@fsck.com"
+  },
+  "plugins": [
+    {
+      "name": "the-elements-of-style",
+      "description": "Writing guidance based on William Strunk Jr.'s The Elements of Style (1918)",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "Jesse Vincent",
+        "email": "jesse@fsck.com"
+      }
+    }
+  ]
+}
